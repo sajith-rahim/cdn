@@ -1,0 +1,28 @@
+---
+title: "Linear Basis Models PMRL"
+output: html_notebook
+---
+
+Chapter 3
+
+```{r}
+plot(cars)
+```
+Linear Basis Models (section 3.1)
+Linear models are defined as
+
+y(x,w)=w0,w1x1+…+wnxN
+
+where x is the datapoint and w are the parameters of the model.
+
+A model extension is to consider linear combinations of fixed nonlinear functions ϕ over x which are called basis functions:
+
+y(x,w)=∑i=0Nwiϕi(xi)
+
+where, by convention, ϕ0(x)=1.
+
+An example of basis is the gaussian basis:
+
+ϕ(x)=exp{−(x−μ)22σ2}
+
+Maximum Likelihood
