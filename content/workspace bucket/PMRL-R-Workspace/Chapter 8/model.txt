@@ -1,0 +1,12 @@
+
+  model {
+      for(i in 1:4) {
+         w[i] ~ dnorm(0, alpha_1)       # prior for each w[i], w ~ N(0,1/alpha)
+      }
+
+      for(i in 1:N) {
+          mu[i] <- w[1] + w[2]*x[i] + w[3]*pow(x[i],2) + w[4]*pow(x[i],3) 
+          y[i] ~ dnorm(mu[i], sigma2)   # likelihood, y ~ N(mu, sigma^2)
+      }
+  }
+
