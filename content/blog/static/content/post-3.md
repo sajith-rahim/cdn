@@ -1,0 +1,14 @@
+#All Good Things come to an End!
+
+![](https://images.moviesanywhere.com/45bc0ec075bfc0b4d8f184a7cc5bf993/876ed805-83b1-4387-b0d0-62d08c36536d.webp)
+
+All the threads of **Tolkien's magnum opu**s come together in the most elegant of fashions in the final part of Peter Jackson's adaptation. Humanity makes a last stand at Minas Tirith, the Hobbits travel through Mordor, our heroes try to by time for Frodo to complete his mission and the Evil Sauron gets tired of the whole game and lashes out with all his might and fury.
+
+"**Return of the King**" is 4 hours of payoff, a third act in a gigantic epic rather than a mere film of its own. As such it is intensely dramatic and dynamic and you can very much sense that though peter Jackson spared no effort on the previous episodes, this is clearly his favorite. the film floats by at a thunderous pace, taking us through unforgettable moments such as the battle of Minas Tirith itself, a marvel of seamless animation and epic film-making, it demands to be seen, as it has too many jaw-dropping moments to choose from. The quieter character moments keep gaining in potency and the full weight of the stakes and their heartbreaking consequences is never in doubt.
+
+The cast of these films have played their parts to perfection and again Jackson deserves overall credit for choosing actors that so perfectly match Tlolkien's creations: Ian McKellen and Christopher Lee are their own usually excellent selves, and the hobbits remain endearing, but of all the uniformly great cast, the true standouts are Viggo Mortensen and David Wenham as the tragic Faramir, whose relationship with his brutish father is the most traumatic of the film. Jackson pushes them even further by having them sing at a few key moments (a practice employed to powerful effect by Tolkien in the books), a daring undertaking that works wonders. And though he may offer one ending too many, he does have the decency to show off each surviving character with the appropriate screen time and respect.
+
+Now that the trilogy is complete, it can be viewed as one big film, as it should be. After 8 years, Jackson has done the impossible: he has taken Tolkien's huge legend and made films that stand on their own and have revolutionized film-making, setting the new benchmark for cinematic epics. Changes have been made to Tolkien's source novels, but they make for better, more fluid films, more faithful in spirit to Tolkien's myth than anyone had the right to hope for.
+
+
+*A masterpiece, whether as part of a bigger whole or on its own. Well deserving of all the high praise thrown at it, and then some...*
