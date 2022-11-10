@@ -30,7 +30,7 @@
         {
             "title": "The Lord of the Rings: The Return of the King",
             "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-            "html_description": "<h2><span>inside span tag</span> <p>inside para tag</p> inside h2 tag</h2>",
+            "html_description": "<p>This is some<span>highlighted text</span> among some other text</p>",
             "type": "Article",
             "author": "J.R.R. Tolkien",
             "markdown_uri": "https://raw.githubusercontent.com/sajith-rahim/cdn/main/content/blog/static/content/post-3.md",
@@ -40,7 +40,7 @@
         {
             "title": "xThe Shawshank Redemption",
             "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-            "html_description": "<h2><span>inside span tag</span> <p>inside para tag</p> inside h2 tag</h2>",
+            "html_description": "<p>This is some<span>highlighted text</span> among some other text</p>",
             "type": "Project",
             "author": "Stephen King",
             "markdown_uri": "https://raw.githubusercontent.com/sajith-rahim/cdn/main/content/blog/static/content/post-1.md",
@@ -50,7 +50,7 @@
         {
             "title": "xThe Godfather",
             "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
-            "html_description": "<h2><span>inside span tag</span> <p>inside para tag</p> inside h2 tag</h2>",
+            "html_description": "<p>This is some<span>highlighted text</span> among some other text</p>",
             "type": "Project",
             "author": "Carlyle Bradshaw",
             "markdown_uri": "https://raw.githubusercontent.com/sajith-rahim/cdn/main/content/blog/static/content/post-2.md",
@@ -60,7 +60,7 @@
         {
             "title": "-The Lord of the Rings: The Return of the King",
             "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-            "html_description": "<h2><span>inside span tag</span> <p>inside para tag</p> inside h2 tag</h2>",
+            "html_description": "<p>This is some<span>highlighted text</span> among some other text</p>",
             "type": "Article",
             "author": "J.R.R. Tolkien",
             "markdown_uri": "https://raw.githubusercontent.com/sajith-rahim/cdn/main/content/blog/static/content/post-1.md",
@@ -70,7 +70,7 @@
         {
             "title": "-The Shawshank Redemption",
             "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-            "html_description": "<h2><span>inside span tag</span> <p>inside para tag</p> inside h2 tag</h2>",
+            "html_description": "<p>This is some<span>highlighted text</span> among some other text</p>",
             "type": "Project",
             "author": "Stephen King",
             "markdown_uri": "https://raw.githubusercontent.com/sajith-rahim/cdn/main/content/blog/static/content/post-1.md",
@@ -80,7 +80,7 @@
         {
             "title": "-The Godfather",
             "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
-            "html_description": "<h2><span>inside span tag</span> <p>inside para tag</p> inside h2 tag</h2>",
+            "html_description": "<p>This is some<span>highlighted text</span> among some other text</p>",
             "type": "Project",
             "author": "Carlyle Bradshaw",
             "markdown_uri": "https://raw.githubusercontent.com/sajith-rahim/cdn/main/content/blog/static/content/post-2.md",
@@ -90,7 +90,7 @@
         {
             "title": "xThe Lord of the Rings: The Return of the King",
             "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-            "html_description": "<h2><span>inside span tag</span> <p>inside para tag</p> inside h2 tag</h2>",
+            "html_description": "<p>This is some<span>highlighted text</span> among some other text</p>",
             "type": "Article",
             "author": "J.R.R. Tolkien",
             "markdown_uri": "https://raw.githubusercontent.com/sajith-rahim/cdn/main/content/blog/static/content/post-1.md",
