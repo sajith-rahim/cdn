@@ -8,6 +8,7 @@
     "posts": [
         {
             "title": "The Shawshank Redemption",
+            "html_description": "<h2><span>Andy Dufresne</span> - who crawled through a river of s*** and came out clean on the other side.</h2>",
             "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
             "type": "Project",
             "author": "Stephen King",
