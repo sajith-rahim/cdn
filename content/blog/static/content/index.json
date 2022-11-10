@@ -1,0 +1,92 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "type": "Project",
+        "author": "Stephen King",
+        "markdown_uri": "rroddy0",
+        "date": "11-Jul-2022",
+        "read_time": 26
+    },
+    {
+        "title": "The Godfather",
+        "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+        "type": "Project",
+        "author": "Carlyle Bradshaw",
+        "markdown_uri": "cbradshaw1",
+        "date": "17-Mar-2022",
+        "read_time": 8
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "type": "Article",
+        "author": "J.R.R. Tolkien",
+        "markdown_uri": "zbearham2",
+        "date": "06-Feb-2022",
+        "read_time": 17
+    },
+    {
+        "title": "Tampflex",
+        "description": "lwetherell3",
+        "type": "Project",
+        "author": "Lorenzo Wetherell",
+        "markdown_uri": "lwetherell3",
+        "date": "05-Jan-2022",
+        "read_time": 16
+    },
+    {
+        "title": "Daltfresh",
+        "description": "naxton4",
+        "type": "Article",
+        "author": "Ninette Axton",
+        "markdown_uri": "naxton4",
+        "date": "14-Sep-2022",
+        "read_time": 53
+    },
+    {
+        "title": "Flowdesk",
+        "description": "cmcenhill5",
+        "type": "Project",
+        "author": "Chicky McEnhill",
+        "markdown_uri": "cmcenhill5",
+        "date": "28-May-2022",
+        "read_time": 23
+    },
+    {
+        "title": "Regrant",
+        "description": "atrymme6",
+        "type": "Article",
+        "author": "Allissa Trymme",
+        "markdown_uri": "atrymme6",
+        "date": "03-Sep-2022",
+        "read_time": 32
+    },
+    {
+        "title": "Tresom",
+        "description": "jal7",
+        "type": "Article",
+        "author": "Joletta Al Hirsi",
+        "markdown_uri": "jal7",
+        "date": "13-Feb-2022",
+        "read_time": 8
+    },
+    {
+        "title": "Voltsillam",
+        "description": "eantrag8",
+        "type": "Article",
+        "author": "Eliot Antrag",
+        "markdown_uri": "eantrag8",
+        "date": "11-Oct-2022",
+        "read_time": 56
+    },
+    {
+        "title": "Vagram",
+        "description": "vwhitticks9",
+        "type": "Article",
+        "author": "Vallie Whitticks",
+        "markdown_uri": "vwhitticks9",
+        "date": "22-Jun-2022",
+        "read_time": 9
+    }
+]
