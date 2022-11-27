@@ -3,7 +3,7 @@
     "version": "1.3",
     "owner": "sajith.rahim",
     "year": "2022",
-    "ticker_text": "`• {title} v{version} •     | No of posts: ${ this.data.posts.length}`",
+    "ticker_text": "`• {metadata.title} v{metadata.version} •     | No of posts: ${ this.data.posts.length}`",
     "top_posts":[
         "The Shawshank Redemption",
         "The Godfather",
