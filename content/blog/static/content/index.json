@@ -3,7 +3,8 @@
     "version": "1.3",
     "owner": "sajith.rahim",
     "year": "2022",
-    "ticker_text": "`• ${this.metadata.title} v${this.metadata.version} •     | No of posts: ${ this.data.posts.length}`",
+    "ticker_text": "Knowledge Base v1.3",
+    "show_post_count_in_ticker": "true",
     "top_posts":[
         "The Shawshank Redemption",
         "The Godfather",
