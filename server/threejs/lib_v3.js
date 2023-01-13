@@ -34455,6 +34455,7 @@
 
 	}
 
+	window.OBJLoader = OBJLoader;
 	THREE.OBJLoader = OBJLoader;
 
 } )();
