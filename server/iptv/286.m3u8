@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-VERSION:7
+## Created with Broadpeak BkS350 Origin Packager  (version=1.11.2-24244)
+
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-33",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-33",LANGUAGE="ta",NAME="Tamil",AUTOSELECT=YES,CHANNELS="2",URI="/getm3u8?id=286&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Animal_Planet_HD_MOB/Fallback/Animal_Planet_HD_MOB-audio_33639_tam=33600.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-98",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-98",LANGUAGE="ta",NAME="Tamil",AUTOSELECT=YES,CHANNELS="2",URI="/getm3u8?id=286&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Animal_Planet_HD_MOB/Fallback/Animal_Planet_HD_MOB-audio_98837_tam=98800.m3u8"
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=212000,AVERAGE-BANDWIDTH=193000,CODECS="mp4a.40.2,avc1.64000D",RESOLUTION=416x234,FRAME-RATE=25,AUDIO="audio-aacl-33",CLOSED-CAPTIONS=NONE
+/getm3u8?id=286&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Animal_Planet_HD_MOB/Fallback/Animal_Planet_HD_MOB-audio_33638_eng=33600-video=148000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=407000,AVERAGE-BANDWIDTH=370000,CODECS="mp4a.40.2,avc1.640015",RESOLUTION=480x270,FRAME-RATE=25,AUDIO="audio-aacl-98",CLOSED-CAPTIONS=NONE
+/getm3u8?id=286&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Animal_Planet_HD_MOB/Fallback/Animal_Planet_HD_MOB-audio_98836_eng=98800-video=250000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=555000,AVERAGE-BANDWIDTH=505000,CODECS="mp4a.40.2,avc1.64001E",RESOLUTION=640x360,FRAME-RATE=25,AUDIO="audio-aacl-98",CLOSED-CAPTIONS=NONE
+/getm3u8?id=286&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Animal_Planet_HD_MOB/Fallback/Animal_Planet_HD_MOB-audio_98836_eng=98800-video=376800.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1008000,AVERAGE-BANDWIDTH=916000,CODECS="mp4a.40.2,avc1.64001E",RESOLUTION=854x480,FRAME-RATE=25,AUDIO="audio-aacl-98",CLOSED-CAPTIONS=NONE
+/getm3u8?id=286&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Animal_Planet_HD_MOB/Fallback/Animal_Planet_HD_MOB-audio_98836_eng=98800-video=765200.m3u8
+
+# keyframes
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=22000,CODECS="avc1.64000D",RESOLUTION=416x234,URI="keyframes/Animal_Planet_HD_MOB-video=148000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=37000,CODECS="avc1.640015",RESOLUTION=480x270,URI="keyframes/Animal_Planet_HD_MOB-video=250000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=55000,CODECS="avc1.64001E",RESOLUTION=640x360,URI="keyframes/Animal_Planet_HD_MOB-video=376800.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=112000,CODECS="avc1.64001E",RESOLUTION=854x480,URI="keyframes/Animal_Planet_HD_MOB-video=765200.m3u8"
