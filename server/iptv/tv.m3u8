@@ -1,0 +1,27 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/dishtv.in.xml"
+#EXTINF:-1 tvg-id="Mazavali_Manorama_HD.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="Entertainment",Mazavali Manorama HD
+https://watchtvs.live/getm3u8/844/master.m3u8
+#EXTINF:-1 tvg-id="FlowersTV.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="Entertainment",Flower TV
+https://watchtvs.live/getm3u8/634/master.m3u8
+#EXTINF:-1 tvg-id="Jio_Cricket_English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="Sports",Jio Cricket English HD
+https://watchtvs.live/getm3u8/1918/master.m3u8
+#EXTINF:-1 tvg-id="Eurosport_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports",Eurosport HD
+https://watchtvs.live/getm3u8/875/master.m3u8
+#EXTINF:-1 tvg-id="VH1_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png" group-title="Entertainment",VH1 HD
+https://watchtvs.live/getm3u8/1320/master.m3u8
+#EXTINF:-1 tvg-id="Animal_Planet_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Entertainment",Animal Planet HD World
+https://watchtvs.live/getm3u8/286/master.m3u8
+#EXTINF:-1 tvg-id="Sony_BBC_Earth_HD_English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="Entertainment",Sony BBC Earth HD English
+https://watchtvs.live/getm3u8/852/master.m3u8
+#EXTINF:-1 tvg-id="History_TV18_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Infotainment",History TV18 HD
+https://watchtvs.live/getm3u8/146/master.m3u8
+#EXTINF:-1 "tvg-id="Discovery_HD_World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
+https://watchtvs.live/getm3u8/463/master.m3u8
+#EXTINF:-1 tvg-id="Discovery_Science" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment",Discovery Science
+https://watchtvs.live/getm3u8/568/master.m3u8
+#EXTINF:-1 tvg-id="Comedy_Central_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Entertainment",Comedy_Central_HD
+https://watchtvs.live/getm3u8/1157/master.m3u8
+#EXTINF:-1 tvg-id="CN_HD_English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Children",CN HD+ English
+https://watchtvs.live/getm3u8/1079/master.m3u8
+#EXTINF:-1 tvg-id="Sonic_Malayalam.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="Children",Sonic_Malayalam
+https://watchtvs.live/getm3u8/1344/master.m3u8
