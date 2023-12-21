@@ -33,7 +33,7 @@ public class Optionals {
     }
     public static Optional<String> howToDealWithNull(String param){
         // Optional optReturn = param == null ? Optional.empty() : Optional.of(param);
-        Optional optReturn = Optional.ofNullable(param); // same as previous line
+        Optional optReturn = Optional.ofNullable(param); // same as above line
         return optReturn;
     }
     
