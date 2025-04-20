@@ -1,0 +1,75 @@
+{
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "width": "auto",
+                    "items": [
+                        {
+                            "type": "Image",
+                            "url": "https://mediacdn.pages.dev/announce.png",
+                            "width": "56px",
+                            "height": "56px",
+                            "altText": "Logo",
+                            "spacing": "None"
+                        }
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "width": "stretch",
+                    "items": [
+                        {
+                            "type": "RichTextBlock",
+                            "inlines": [
+                                {
+                                    "type": "TextRun",
+                                    "isSubtle": true,
+                                    "text": "Announcement : \n"
+                                },
+                                {
+                                    "type": "TextRun",
+                                    "text": "Warning",
+                                    "color": "Accent",
+                                    "weight": "Bolder"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "RichTextBlock",
+            "inlines": [
+                {
+                    "type": "TextRun",
+                    "text": "This is a sample text \n rich text subtitle"
+                },
+                {
+                    "type": "TextRun",
+                    "text": "\n"
+                },
+                {
+                    "type": "TextRun",
+                    "text": "2023-07-16",
+                    "color": "Good",
+                    "weight": "Bolder"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "Action.OpenUrl",
+            "title": "Link Button Title",
+            "style": "positive",
+            "url": "http://servicenow.com"
+        }
+    ]
+}

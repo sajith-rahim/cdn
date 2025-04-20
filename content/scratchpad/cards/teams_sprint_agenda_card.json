@@ -1,0 +1,700 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "text": "Sprint 348 | Team 7",
+            "wrap": true,
+            "style": "heading",
+            "horizontalAlignment": "Center",
+            "size": "ExtraLarge",
+            "color": "Default"
+        },
+        {
+            "type": "ColumnSet",
+            "horizontalAlignment": "Center",
+            "columns": [
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "ColumnSet",
+                            "horizontalAlignment": "Center",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/green_flag.png",
+                                            "altText": "Location A",
+                                            "size": "Small"
+                                        }
+                                    ],
+                                    "width": "auto"
+                                },
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "**Start**",
+                                            "wrap": true
+                                        },
+                                        {
+                                            "type": "TextBlock",
+                                            "spacing": "None",
+                                            "text": "23 Apr",
+                                            "wrap": true
+                                        }
+                                    ],
+                                    "width": "auto"
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 1
+                },
+                {
+                    "type": "Column",
+                    "spacing": "Large",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "ColumnSet",
+                            "horizontalAlignment": "Center",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/yellow_pin.png",
+                                            "altText": "Location B",
+                                            "size": "Small",
+                                            "width": "18px"
+                                        }
+                                    ],
+                                    "width": "auto"
+                                },
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "**Mid Review**",
+                                            "wrap": true
+                                        },
+                                        {
+                                            "type": "TextBlock",
+                                            "spacing": "None",
+                                            "text": "30 Apr",
+                                            "wrap": true
+                                        }
+                                    ],
+                                    "width": "auto"
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 1
+                },
+                {
+                    "type": "Column",
+                    "spacing": "Large",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "ColumnSet",
+                            "horizontalAlignment": "Center",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/red_flag.png",
+                                            "altText": "Location C",
+                                            "size": "Small",
+                                            "height": "39px"
+                                        }
+                                    ],
+                                    "width": "auto"
+                                },
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "**End**",
+                                            "wrap": true
+                                        },
+                                        {
+                                            "type": "TextBlock",
+                                            "spacing": "None",
+                                            "text": "6 May",
+                                            "wrap": true
+                                        }
+                                    ],
+                                    "width": "auto"
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "ColumnSet",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "spacing": "None",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "**23 Apr**",
+                                            "wrap": true
+                                        }
+                                    ],
+                                    "width": "stretch"
+                                }
+                            ]
+                        }
+                    ],
+                    "width": "110px"
+                },
+                {
+                    "type": "Column",
+                    "backgroundImage": {
+                        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAYCAIAAAC0rgCNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMTZEaa/1AAAAEElEQVQYV2NoaGigHW5oAADAuiQBWxz13QAAAABJRU5ErkJggg==",
+                        "fillMode": "RepeatVertically",
+                        "horizontalAlignment": "Center"
+                    },
+                    "items": [
+                        {
+                            "type": "Image",
+                            "horizontalAlignment": "Center",
+                            "url": "https://mediacdn.pages.dev/green_dot.png",
+                            "altText": "Location A: Coffee",
+                            "width": "18px"
+                        }
+                    ],
+                    "width": "auto",
+                    "spacing": "None"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "text": "**Sprint Start | 347 Demo**",
+                            "wrap": true,
+                            "spacing": "Medium"
+                        },
+                        {
+                            "type": "TextBlock",
+                            "text": "  ",
+                            "wrap": true
+                        },
+                        {
+                            "type": "ColumnSet",
+                            "spacing": "None",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/zoom.png",
+                                            "altText": "Location",
+                                            "size": "Small",
+                                            "height": "16px"
+                                        }
+                                    ],
+                                    "width": "auto"
+                                },
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "10.30 AM",
+                                            "wrap": true
+                                        }
+                                    ],
+                                    "width": "stretch"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ColumnSet",
+                            "spacing": "Small",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/power_point.png",
+                                            "altText": "Powerpoint presentation"
+                                        }
+                                    ],
+                                    "width": "auto"
+                                },
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "Update Demo Slides",
+                                            "wrap": true,
+                                            "size": "Small"
+                                        }
+                                    ],
+                                    "width": "stretch"
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 40
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "spacing": "None",
+            "columns": [
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "spacing": "None",
+                            "text": "**25 Apr**",
+                            "wrap": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "spacing": "None",
+                            "text": "Fri",
+                            "isSubtle": true,
+                            "wrap": true
+                        }
+                    ],
+                    "width": "110px"
+                },
+                {
+                    "type": "Column",
+                    "backgroundImage": {
+                        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAYCAIAAAC0rgCNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMTZEaa/1AAAAEElEQVQYV2NoaGigHW5oAADAuiQBWxz13QAAAABJRU5ErkJggg==",
+                        "fillMode": "RepeatVertically",
+                        "horizontalAlignment": "Center"
+                    },
+                    "items": [
+                        {
+                            "type": "Image",
+                            "horizontalAlignment": "Center",
+                            "url": "https://mediacdn.pages.dev/green_dot.png",
+                            "altText": "Location B: Flight",
+                            "width": "18px"
+                        }
+                    ],
+                    "width": "auto",
+                    "spacing": "None"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "text": "  ",
+                            "wrap": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "text": "**Holiday** 🥳",
+                            "wrap": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "text": "  ",
+                            "wrap": true
+                        },
+                        {
+                            "type": "ColumnSet",
+                            "spacing": "None",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/holiday.png",
+                                            "altText": "Location",
+                                            "size": "Small",
+                                            "height": "18px"
+                                        }
+                                    ],
+                                    "width": "auto"
+                                },
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "ServiceNow Wellbeing Day",
+                                            "wrap": true
+                                        }
+                                    ],
+                                    "width": "stretch"
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 40
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "spacing": "None",
+            "columns": [
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "spacing": "None",
+                            "text": "**30 Apr**",
+                            "wrap": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "spacing": "None",
+                            "text": "Wed",
+                            "isSubtle": true,
+                            "wrap": true
+                        }
+                    ],
+                    "width": "110px"
+                },
+                {
+                    "type": "Column",
+                    "backgroundImage": {
+                        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAYCAIAAAC0rgCNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMTZEaa/1AAAAEElEQVQYV2NoaGigHW5oAADAuiQBWxz13QAAAABJRU5ErkJggg==",
+                        "fillMode": "RepeatVertically",
+                        "horizontalAlignment": "Center"
+                    },
+                    "items": [
+                        {
+                            "type": "Image",
+                            "horizontalAlignment": "Center",
+                            "url": "https://mediacdn.pages.dev/green_dot.png",
+                            "altText": "Location B: Flight",
+                            "width": "18px"
+                        }
+                    ],
+                    "width": "auto",
+                    "spacing": "None"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "text": "  ",
+                            "wrap": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "text": "**Mid Sprint Review**",
+                            "wrap": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "text": "  ",
+                            "wrap": true
+                        },
+                        {
+                            "type": "ColumnSet",
+                            "spacing": "None",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/zoom.png",
+                                            "altText": "Location",
+                                            "size": "Small",
+                                            "height": "16px"
+                                        }
+                                    ],
+                                    "width": "auto"
+                                },
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "10.30 AM",
+                                            "wrap": true
+                                        }
+                                    ],
+                                    "width": "stretch"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ColumnSet",
+                            "spacing": "Small",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/power_point.png",
+                                            "altText": "Powerpoint presentation"
+                                        }
+                                    ],
+                                    "width": "auto"
+                                },
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "Update SoS Slides",
+                                            "wrap": true,
+                                            "size": "Small"
+                                        }
+                                    ],
+                                    "width": "stretch"
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 40
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "spacing": "None",
+            "columns": [
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "spacing": "None",
+                            "text": "**5 May**",
+                            "wrap": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "spacing": "None",
+                            "text": "Wed",
+                            "isSubtle": true,
+                            "wrap": true
+                        }
+                    ],
+                    "width": "110px"
+                },
+                {
+                    "type": "Column",
+                    "backgroundImage": {
+                        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAYCAIAAAC0rgCNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMTZEaa/1AAAAEElEQVQYV2NoaGigHW5oAADAuiQBWxz13QAAAABJRU5ErkJggg==",
+                        "fillMode": "RepeatVertically",
+                        "horizontalAlignment": "Center"
+                    },
+                    "items": [
+                        {
+                            "type": "Image",
+                            "horizontalAlignment": "Center",
+                            "url": "https://mediacdn.pages.dev/green_dot.png",
+                            "altText": "Location B: Flight",
+                            "width": "18px"
+                        }
+                    ],
+                    "width": "auto",
+                    "spacing": "None"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "text": "  ",
+                            "wrap": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "text": "**Final Stretch** ⌛",
+                            "wrap": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "text": "  ",
+                            "wrap": true
+                        },
+                        {
+                            "type": "ColumnSet",
+                            "spacing": "Small",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/power_point.png",
+                                            "altText": "Powerpoint presentation"
+                                        }
+                                    ],
+                                    "width": "auto"
+                                },
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "UIB Casetask Review ",
+                                            "wrap": true,
+                                            "size": "Small"
+                                        }
+                                    ],
+                                    "width": "stretch"
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 40
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "spacing": "None",
+            "columns": [
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "spacing": "None",
+                            "text": "6 May",
+                            "wrap": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "spacing": "None",
+                            "text": "Tue",
+                            "isSubtle": true,
+                            "wrap": true
+                        }
+                    ],
+                    "width": "110px"
+                },
+                {
+                    "type": "Column",
+                    "backgroundImage": {
+                        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAYCAIAAAC0rgCNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMTZEaa/1AAAAEElEQVQYV2NoaGigHW5oAADAuiQBWxz13QAAAABJRU5ErkJggg==",
+                        "fillMode": "RepeatVertically",
+                        "horizontalAlignment": "Center"
+                    },
+                    "items": [
+                        {
+                            "type": "Image",
+                            "horizontalAlignment": "Center",
+                            "url": "https://mediacdn.pages.dev/green_dot.png",
+                            "altText": "Location B: Flight",
+                            "width": "18px"
+                        }
+                    ],
+                    "width": "auto",
+                    "spacing": "None"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "text": "  ",
+                            "wrap": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "text": "**Sprint End**",
+                            "wrap": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "text": "  ",
+                            "wrap": true
+                        },
+                        {
+                            "type": "ColumnSet",
+                            "spacing": "None",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/red_flag.png",
+                                            "altText": "Location",
+                                            "width": "18px"
+                                        }
+                                    ],
+                                    "width": "auto"
+                                },
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "Done and Dusted. 👏",
+                                            "wrap": true
+                                        }
+                                    ],
+                                    "width": "stretch"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TextBlock",
+                            "text": "  ",
+                            "wrap": true
+                        }
+                    ],
+                    "width": 40
+                }
+            ]
+        },
+        {
+            "type": "TextBlock",
+            "text": "Notes:",
+            "wrap": true
+        },
+        {
+            "type": "FactSet",
+            "facts": [
+                {
+                    "title": "-",
+                    "value": "Please review team's PTO's and ensure there are no dependencies."
+                }
+            ]
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5"
+}

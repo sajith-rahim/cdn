@@ -1,0 +1,67 @@
+{
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "width": "auto",
+                    "items": [
+                        {
+                            "type": "Image",
+                            "url": "data:image/png;base64,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",
+                            "width": "56px",
+                            "height": "56px",
+                            "altText": "Logo",
+                            "spacing": "None"
+                        }
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "width": "stretch",
+                    "items": [
+                        {
+                            "type": "RichTextBlock",
+                            "inlines": [
+                                {
+                                    "type": "TextRun",
+                                    "isSubtle": true,
+                                    "text": "Gentle Reminder : \n"
+                                },
+                                {
+                                    "type": "TextRun",
+                                    "text": "📢 Only 2 more days till Sprint end.",
+                                    "color": "Accent",
+                                    "weight": "Bolder"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "RichTextBlock",
+            "inlines": [
+                {
+                    "type": "TextRun",
+                    "text": "⏰ Only 2 days left until the end of the sprint! \n"
+                },
+                {
+                    "type": "TextRun",
+                    "text": "Please ensure all your PR's are reviewed and merged to avoid spillovers.\n",
+                    "color": "Good",
+                    "weight": "Bolder"
+                },
+                {
+                    "type": "TextRun",
+                    "text": "\nLet's finish strong. 💪 \n"
+                }
+            ]
+        }
+    ]
+}
