@@ -1,0 +1,471 @@
+{
+    "type": "AdaptiveCard",
+    "speak": "UIB IDC Open PR's",
+    "body": [
+        {
+            "inlines": [
+                {
+                    "type": "TextRun",
+                    "size": "Small",
+                    "text": "UIB IDC Open Pull Requests",
+                    "selectAction": {
+                        "url": "https://sajith-rahim.github.io",
+                        "type": "Action.OpenUrl"
+                    }
+                }
+            ],
+            "type": "RichTextBlock"
+        },
+        {
+            "columns": [
+                {
+                    "width": "auto",
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "Image",
+                            "url": "https://mediacdn.pages.dev/merge_req_branch.png",
+                            "altText": "Git",
+                            "width": "36px",
+                            "height": "36px",
+                            "style": "RoundedCorners"
+                        }
+                    ]
+                },
+                {
+                    "width": "stretch",
+                    "items": [
+                        {
+                            "size": "Medium",
+                            "text": "Pull Requests Open for 3 or more days.",
+                            "weight": "Bolder",
+                            "wrap": true,
+                            "type": "TextBlock"
+                        }
+                    ],
+                    "verticalContentAlignment": "Center",
+                    "spacing": "Small",
+                    "type": "Column"
+                }
+            ],
+            "spacing": "Small",
+            "type": "ColumnSet"
+        },
+        {
+            "type": "Container",
+            "items": [
+                {
+                    "type": "Container",
+                    "items": [
+                        {
+                            "type": "ColumnSet",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "width": "auto",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/github_icon.png",
+                                            "width": "36px",
+                                            "height": "36px",
+                                            "altText": "Logo",
+                                            "style": "RoundedCorners"
+                                        }
+                                    ],
+                                    "verticalContentAlignment": "Center"
+                                },
+                                {
+                                    "type": "Column",
+                                    "width": "stretch",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "PR Title",
+                                            "wrap": true,
+                                            "weight": "Bolder"
+                                        },
+                                        {
+                                            "type": "ColumnSet",
+                                            "columns": [
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "Icon",
+                                                            "name": "CircleSmall",
+                                                            "color": "Accent",
+                                                            "style": "Filled",
+                                                            "size": "Small"
+                                                        }
+                                                    ],
+                                                    "horizontalAlignment": "Left",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "Approved",
+                                                            "wrap": true
+                                                        }
+                                                    ],
+                                                    "spacing": "None",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "|",
+                                                            "wrap": true
+                                                        }
+                                                    ],
+                                                    "spacing": "Small",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "sajith.rahim",
+                                                            "wrap": true
+                                                        }
+                                                    ],
+                                                    "spacing": "Small",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "|",
+                                                            "wrap": true
+                                                        }
+                                                    ],
+                                                    "spacing": "Small",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "stretch",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "3 days",
+                                                            "wrap": true
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "horizontalAlignment": "Left",
+                                            "separator": true,
+                                            "spacing": "ExtraSmall"
+                                        }
+                                    ],
+                                    "verticalContentAlignment": "Center",
+                                    "horizontalAlignment": "Left"
+                                }
+                            ],
+                            "spacing": "None"
+                        }
+                    ],
+                    "style": "emphasis",
+                    "showBorder": true,
+                    "verticalContentAlignment": "Center",
+                    "horizontalAlignment": "Left",
+                    "spacing": "ExtraSmall",
+                    "bleed": true
+                },
+                {
+                    "type": "Container",
+                    "items": [
+                        {
+                            "type": "ColumnSet",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "width": "auto",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/github_icon.png",
+                                            "width": "36px",
+                                            "height": "36px",
+                                            "altText": "Logo",
+                                            "style": "RoundedCorners"
+                                        }
+                                    ],
+                                    "verticalContentAlignment": "Center"
+                                },
+                                {
+                                    "type": "Column",
+                                    "width": "stretch",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "PR Title",
+                                            "wrap": true,
+                                            "weight": "Bolder"
+                                        },
+                                        {
+                                            "type": "ColumnSet",
+                                            "columns": [
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "Icon",
+                                                            "name": "CircleSmall",
+                                                            "color": "Accent",
+                                                            "style": "Filled",
+                                                            "size": "Small"
+                                                        }
+                                                    ],
+                                                    "horizontalAlignment": "Left",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "Approved",
+                                                            "wrap": true
+                                                        }
+                                                    ],
+                                                    "spacing": "None",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "|",
+                                                            "wrap": true
+                                                        }
+                                                    ],
+                                                    "spacing": "Small",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "sajith.rahim",
+                                                            "wrap": true
+                                                        }
+                                                    ],
+                                                    "spacing": "Small",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "|",
+                                                            "wrap": true
+                                                        }
+                                                    ],
+                                                    "spacing": "Small",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "stretch",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "5 days",
+                                                            "wrap": true
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "horizontalAlignment": "Left",
+                                            "separator": true,
+                                            "spacing": "ExtraSmall"
+                                        }
+                                    ],
+                                    "verticalContentAlignment": "Center",
+                                    "horizontalAlignment": "Left"
+                                }
+                            ],
+                            "spacing": "None"
+                        }
+                    ],
+                    "style": "warning",
+                    "showBorder": true,
+                    "verticalContentAlignment": "Center",
+                    "horizontalAlignment": "Left",
+                    "spacing": "ExtraSmall",
+                    "bleed": true
+                },
+                {
+                    "type": "Container",
+                    "items": [
+                        {
+                            "type": "ColumnSet",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "width": "auto",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://mediacdn.pages.dev/github_icon.png",
+                                            "width": "36px",
+                                            "height": "36px",
+                                            "altText": "Logo",
+                                            "style": "RoundedCorners"
+                                        }
+                                    ],
+                                    "verticalContentAlignment": "Center"
+                                },
+                                {
+                                    "type": "Column",
+                                    "width": "stretch",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "text": "PR Title",
+                                            "wrap": true,
+                                            "weight": "Bolder"
+                                        },
+                                        {
+                                            "type": "ColumnSet",
+                                            "columns": [
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "Icon",
+                                                            "name": "CircleSmall",
+                                                            "color": "Accent",
+                                                            "style": "Filled",
+                                                            "size": "Small"
+                                                        }
+                                                    ],
+                                                    "horizontalAlignment": "Left",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "Approved",
+                                                            "wrap": true
+                                                        }
+                                                    ],
+                                                    "spacing": "None",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "|",
+                                                            "wrap": true
+                                                        }
+                                                    ],
+                                                    "spacing": "Small",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "sajith.rahim",
+                                                            "wrap": true
+                                                        }
+                                                    ],
+                                                    "spacing": "Small",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "auto",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "|",
+                                                            "wrap": true
+                                                        }
+                                                    ],
+                                                    "spacing": "Small",
+                                                    "verticalContentAlignment": "Center"
+                                                },
+                                                {
+                                                    "type": "Column",
+                                                    "width": "stretch",
+                                                    "items": [
+                                                        {
+                                                            "type": "TextBlock",
+                                                            "text": "7 days",
+                                                            "wrap": true
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "horizontalAlignment": "Left",
+                                            "separator": true,
+                                            "spacing": "ExtraSmall"
+                                        }
+                                    ],
+                                    "verticalContentAlignment": "Center",
+                                    "horizontalAlignment": "Left"
+                                }
+                            ],
+                            "spacing": "None"
+                        }
+                    ],
+                    "style": "attention",
+                    "showBorder": true,
+                    "verticalContentAlignment": "Center",
+                    "horizontalAlignment": "Left",
+                    "spacing": "ExtraSmall",
+                    "bleed": true
+                }
+            ],
+            "style": "default",
+            "separator": true
+        },
+        {
+            "type": "RichTextBlock",
+            "inlines": [
+                {
+                    "type": "TextRun",
+                    "text": "Please get your pull requests reviewed and merged as soon as possible.",
+                    "isSubtle": true,
+                    "color": "Accent"
+                }
+            ]
+        }
+    ],
+    "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5"
+}
